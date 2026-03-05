@@ -38,7 +38,7 @@ Prediction Dashboard (Streamlit)
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/sentiment-stock-predictor.git
+git clone [https://github.com/YOUR_USERNAME/sentiment-stock-predictor.git](https://github.com/shivvdev08-analyst/sentiment-stock-predictor)
 
 
 Go to the project folder:
